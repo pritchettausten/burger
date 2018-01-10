@@ -1,0 +1,29 @@
+html, body { 
+  background-image: url(../img/burger.jpeg); 
+}
+
+#head {
+  text-align: center;
+  font-size: 60px;
+  color: white;
+  font-family: 'Righteous', cursive;
+
+}
+textarea.form-control{
+  font-size: 25px;
+  padding-top: 25px;
+  
+}
+.input-group .form-control{
+  font-family: 'Righteous', cursive;
+}
+#eatenthings{
+  padding-bottom: 5px; 
+}
+
+#h4 {
+  font-size: 30px;
+  color: white;
+  letter-spacing: 1px;
+  font-family: 'Righteous', cursive;
+}
